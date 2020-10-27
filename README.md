@@ -43,3 +43,6 @@ options:
 	install              Install all requirements
 	run                  Run aplication
 ```
+
+## Results:
+Results are stored in /results/products-{{today's date}}.csv

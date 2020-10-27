@@ -1,0 +1,7 @@
+/.vscode
+kolonial-env/
+__pycache__/
+ *.pyc
+.env
+.idea/
+.python-version
